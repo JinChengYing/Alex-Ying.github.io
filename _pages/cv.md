@@ -21,8 +21,8 @@ Work experience
   
 Skills
 ======
-*   eat
-*  drink
+* eat
+* drink
   *drink water
   *drink beer
   *drink wine
